@@ -5,6 +5,11 @@ Pulse is a responsive employee experience dashboard for understanding engagement
 It turns anonymous pulse-survey responses into clear metrics, department-level trends, and an actionable insights report for People teams and organizational leaders.
 
 > **Project status:** Frontend prototype using mock survey data. Authentication, persistent storage, live sentiment analysis, and PDF generation are not connected yet.
+## Live Demo
+
+🔗 **[View the live app](https://stew-barge-07237906.figma.site)**
+
+Hosted on Figma Make. The first time you open it, you'll be asked for your name, department, and organization. Your details are saved in your browser only. 
 
 ## Features
 
